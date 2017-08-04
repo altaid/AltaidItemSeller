@@ -1,6 +1,6 @@
 ## Interface: 70200
 ## Title: AltaidItemSeller
 ## Author: Alexey Astafev
-## Version: 0.1
+## Version: 1.0
 
 AltaidItemSeller.lua
